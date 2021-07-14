@@ -1,1 +1,0 @@
-This folder -- "C#" -- contains the small apps i did during my basic learning process, most of them were only for learning reasons
